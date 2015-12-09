@@ -16,7 +16,7 @@ El código fuente del libro, encontrado en este repositorio, se conserva sincron
 
 Esta licencia complaciente con "La cultura libre" fue aprovada por mi editor O'Reilly Media (http://oreilly.com), quien comprende el valor del código abierto. O'Reilly Media no es solamente el mejor editor de libros técnicos sino que además es un firme defensor de la cultura abierta y del intercambio de conocimiento. 
 
-Thank you O'Reilly!
+Muchas gracias O'Reilly!
 
 # Traducciones
 
