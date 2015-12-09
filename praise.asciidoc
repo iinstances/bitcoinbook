@@ -6,17 +6,17 @@ ____
 “Cuando hablo sobre bitcoin a la audiencia en general, me preguntan a veces 'pero ¿como funciona realmente?' Ahora tengo una buena respuesta para esa pregunta, porque todo aquel que lea _Mastering Bitcoin_ contará con una profunda comprensión de cómo funciona y estará preparado para desarrollar la siguiente generación de sorprendentes aplicaciones de Criptomonedas.”
 ____
 
-[quote, Naval Ravikant, Co-founder AngelList]
+[quote, Naval Ravikant, Co-fundador de AngelList]
 ____
-“Bitcoin and blockchain technologies are becoming fundamental building blocks for the next generation internet. Silicon Valley's best and brightest are working on it. Andreas' book will help you join the software revolution in the world of finance.” 
-____
-
-[quote, Balaji S. Srinivasan (@balajis), General Partner&#x2c; Andreessen Horowitz]
-____
-“_Mastering Bitcoin_ is the best technical reference available on bitcoin today. And bitcoin is likely to be seen in retrospect as the most important technology of this decade. As such, this book is an absolute must-have for any developer, especially those interested in building applications with the bitcoin protocol. Highly recommended.”
+“La tecnología Bitcoin y su cadena de bloques se están convirtiendo en pilares fundamentales de la próxima generación de Internet. Las mejores y más brillantes mentes de Silicon Valley's se encuentran ya trabajando en ello. El libro que nos brinda Andreas te ayudará a sumarte a la próxima revolución del software en el mundo de las finanzas.” 
 ____
 
-[quote, Roger Ver, Bitcoin Entrepreneur and Investor]
+[quote, Balaji S. Srinivasan (@balajis), Socio General&#x2c; Andreessen Horowitz]
 ____
-“The invention of the Bitcoin Blockchain represents an entirely new platform to build upon, one that will enable an ecosystem as wide and diverse as the Internet itself. As one of the preeminent thought leaders, Andreas Antonopoulos is the perfect choice to write this book.”
+“_Mastering Bitcoin_ es la mejor referencia técnica sobre bitcoin disponible actualmente. Y con el tiempo, muy probablemente bitcoin será visto como la tecnología más importante de esta decada. Como tal, este libro es absolutamente imprescindible para cualquier desarrollador, especialmente aquellos interesados en el desarrallo de aplicaciones con el protocolo bitcoin. Altamente recomendado.”
+____
+
+[quote, Roger Ver, Empresario e Inversor en Bitcoin]
+____
+“La invención de la cadena de bloques de Bitcoin representa una plataforma completamente nueva sobre la que poder construir un ecosistema tan amplio y diverso como la propia red internet en si misma. Como uno de los líderes de opinión por excelencia, Andreas Antonopoulos es la elección perfecta para escribir este libro.”
 ____
