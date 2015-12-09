@@ -1,9 +1,9 @@
 ["dedication", role="praise"]
-== Praise for 'Mastering Bitcoin'
+== Elogios para 'Mastering Bitcoin'
 
-[quote, Gavin Andresen, Chief Scientist Bitcoin Foundation]
+[quote, Gavin Andresen, Científico Jefe de la Fundación Bitcoin]
 ____
-“When I talk about bitcoin to general audiences, I am sometimes asked 'but how does it really work?' Now I have a great answer for that question, because anybody who reads _Mastering Bitcoin_ will have a deep understanding of how it works and will be well-equipped to write the next generation of amazing cryptocurrency applications.”
+“Cuando hablo sobre bitcoin a la audiencia en general, me preguntan a veces 'pero ¿como funciona realmente?' Ahora tengo una buena respuesta para esa pregunta, porque todo aquel que lea _Mastering Bitcoin_ contará con una profunda comprensión de cómo funciona y estará preparado para desarrollar la siguiente generación de sorprendentes aplicaciones de Criptomonedas.”
 ____
 
 [quote, Naval Ravikant, Co-founder AngelList]
